@@ -1,8 +1,1 @@
-Install Recent Posts Gadget By Label on your Blog
-
-Follow these easy steps to install it on your blogspot blog:
-
-    Go To Blogger > Template
-    Backup your template'
-    Click "Edit HTML"
-    Search </head> and Paste the following CSS code just above </head>:
+From: http://www.mybloggertricks.com/2016/06/recent-posts-gadget.html
