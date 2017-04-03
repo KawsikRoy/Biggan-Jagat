@@ -1,0 +1,37 @@
+<link href='//netdna.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css' rel='stylesheet'/>
+<link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'/>
+
+<style>
+/*------Recent Posts Gadget By STCnetwork.org--------*/
+.mbtlist {list-style-type:none;overflow:hidden; margin: 10px 0px!important; width:300px; padding:0px!important;}
+.mbtlist li {margin:0px auto 10px auto; clear:both; color:#666; font-family:helvetica; font-size:12px; border-bottom:1px solid #eee; overflow:hidden; position:relative}
+.mbtlist li a { color:#666; text-decoration:none; }
+.mbtlist i{color:#999; padding-right:5px; }
+.mbtlist .iline{line-height:2em; margin-top:3px;}
+.mbtlist .icontent{line-height:1.5em; margin-top:5px;}
+.mbtlist div span{margin:0 5px 0 0; display:inline-block;font-weight: normal; }
+.mbtlist .mbttitle {font-family:oswald; font-size:13px; color:#666; font-weight:normal; text-decoration:none;}
+.mbtlist .mbttitle:hover, .mbtlist .itotal a:hover  {color:#333; text-decoration:none;}
+.mbtlist .iedit a{text-decoration:none; color:#999; cursor:pointer}
+.mbtlist .iedit:before, .mbtlist .iauthor:before, .mbtlist .itag:before, .mbtlist .icomments:before, .mbtlist .idate:before, .mbtlist .itotal span:before{font-family:fontAwesome; position:relative; padding-right:8px; color:#999;}
+.mbtlist .iauthorpic{width: 17px;height: 17px;border-radius: 50%;
+float: none; display: inline-block; margin:0px 0px 0px 0px; padding-right:3px; position:relative; top:3px;}
+.mbtlist .itag{    color: #fff;position: absolute;left: 7px;top: 8px;display: inline-block;font-size: 11px;width: 130px; height:22px;    overflow: hidden;}
+.mbtlist .itag a{background:#000;background:rgba(0,0,0,0.7);text-decoration:none;color:#fff;padding:4px 5px;text-transform:capitalize;line-height: 2em;font-family: arial;
+    font-size: 11px;border:1px solid #333;}
+.mbtlist .itag a:hover{background:#222; color:#eee; text-decoration:none;}
+.iFeatured{overflow:hidden;position:relative;float:left;margin:0 5px 10px 0;padding:0;}
+.iFeatured a {background: url(http://3.bp.blogspot.com/-U2SNjBF_hE8/VLFfl4mJmtI/AAAAAAAAOYs/nDK3GKUJFr4/s100/mbt-bg1.png) 0 0;padding: 7px 7px 8px 7px;display: block;}
+.iFeatured img{width:135px;height:80px;-moz-transition:all .3s;-webkit-transition:all .3s;transition:all .3s;     border-radius: 2px;}
+.iFeatured:hover img{ opacity:1;   -moz-transform:scale(1.4);-webkit-transform:scale(1.4);transform:scale(1.4)}
+.mbtlist .icomments a{color:#0080ff; font-family: arial;font-size:12px;}
+.mbtlist .icomments a:hover{text-decoration:underline}
+.mbtlist .icomments:before {content:'\f086'; padding:0px 3px 0px 7px; color:#84DB06;}
+.mbtlist .idate:before {content:'\f073';padding-right:3px}
+.mbtlist .iedit:before {content:'\f040';}
+.mbtlist .imore {font-size:16px; font-weight:bold; text-decoration:none; color:#666;}
+.mbtlist .itotal {color:#333;  padding:5px 0px; }
+.mbtlist .itotal a {font-family:oswald, arial; font-size:12px; font-weight:normal; color:#0080ff; text-decoration:none}
+.mbtlist .itotal span:before {content:'\f07c';}
+.mbtlist .itotal span font {padding:0px 3px; color:#333; font-family:georgia; font-size:15px; font-weight:bold}
+</style>
